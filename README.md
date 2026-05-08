@@ -29,7 +29,7 @@ Backend engineer focused on scalable systems, cloud architecture, and AI applica
 ## 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carlosportella16/carlosportella16/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/carlosportella16/carlosportella16/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
