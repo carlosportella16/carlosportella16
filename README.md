@@ -1,19 +1,43 @@
+# Hey, I'm Carlos Portella 👋
 
-### Hi! I'm Carlos Portella! 🖐️
-🇧🇷 🇮🇳 Brazilian developer living and working in India. Java and, Spring Boot enthusiast. Passionate about developing web apps. Active open-source contributor and learner. Let's code together! 🚀
+## Senior Software Engineer | Java | AWS | AI
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosportella16/?locale=en_US)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosportella16/)
+Backend engineer focused on scalable systems, cloud architecture, and AI applications.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">          
-  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
-  <img align="center" alt="docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,terraform,postgres,angular,typescript,nodejs,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlosportella16&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosportella16&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
-</br>
- <div align="left">  
-</div>
+
+---
+
+## 🔥 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carlosportella16/carlosportella16/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## 🌎 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/carlosportella16">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
