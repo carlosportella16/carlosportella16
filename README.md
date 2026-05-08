@@ -9,7 +9,7 @@ Backend engineer focused on scalable systems, cloud architecture, AI application
 # 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,terraform,postgres,mongodb,redis,kafka,angular,typescript,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,kubernetes,terraform,python" />
 </p>
 
 ---
